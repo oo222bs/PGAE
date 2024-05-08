@@ -1,0 +1,13 @@
+num_signals: 5
+L_input_dim: 23
+L_num_units: 100
+L_num_layers: 2
+L_max_length: 5
+VB_input_dim: 35
+VB_num_units: 100
+VB_num_layers: 2
+B_input_dim: 5
+B_max_length: 100
+hidden_dim: 50
+L_weight: 1.0
+B_weight: 1.0
